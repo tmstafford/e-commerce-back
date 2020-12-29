@@ -23,16 +23,6 @@ To install all dependencies needed for this application.
 To use the application, be sure to have MySQL installed. Then from the root of your project folder, run the MySQL shell command 
       
       mysql -u root -p
- And enter your secure password. Then from the command line, run
- 
-    source db/schema.sql
-    
-Exit the SQL shell and in the root of the folder from the command line, run
-
-    npm run seed
-to seed the database, and 
-    
-    npm start
-to connect to the server. Head to Insomnia Core to test all API routes and create, read, update, and delete data from the database. 
+ And enter your secure password. Then from the command line, run `source db/schema.sql`. Exit the SQL shell and in the root of the folder from the command line, run `npm run seed` to seed the database, and `npm start` to connect to the server. Head to Insomnia Core to test all API routes and create, read, update, and delete data from the database. 
 
 
