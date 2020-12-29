@@ -24,8 +24,25 @@ To use the application, be sure to have MySQL installed. Then from the root of y
 Exit the SQL shell and in the root of the folder from the command line, run `npm run seed` to seed the database, and `npm start` to connect to the server. Head to Insomnia Core to test all API routes and create, read, update, and delete data from the database. 
 
 Connect to database and server:
+
 ![1](https://user-images.githubusercontent.com/70179648/103318275-2ad9ef80-49eb-11eb-91a0-e041e221b808.gif)
 
 
 All routes for Categories:
+
 ![](https://github.com/tmstafford/e-commerce-back/blob/main/images/2-Categories.gif)
+
+
+All routes for Tags:
+
+![](https://github.com/tmstafford/e-commerce-back/blob/main/images/3-Tags.gif)
+
+
+All routes for Products:
+
+![](https://github.com/tmstafford/e-commerce-back/blob/main/images/4-Products.gif)
+
+
+## Contributing
+Made by Tatum Stafford
+  * [GitHub Profile](https://github.com/tmstafford)
