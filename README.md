@@ -20,9 +20,12 @@ To install all dependencies needed for this application.
 
 ## Usage
 
-To use the application, be sure to have MySQL installed. Then from the root of your project folder, run the MySQL shell command 
-      
-      mysql -u root -p
- And enter your secure password. Then from the command line, run `source db/schema.sql`. Exit the SQL shell and in the root of the folder from the command line, run `npm run seed` to seed the database, and `npm start` to connect to the server. Head to Insomnia Core to test all API routes and create, read, update, and delete data from the database. 
+To use the application, be sure to have MySQL installed. Then from the root of your project folder, run the MySQL shell command `mysql -u root -p` and enter your secure password. Then from the command line, run `source db/schema.sql`. 
+Exit the SQL shell and in the root of the folder from the command line, run `npm run seed` to seed the database, and `npm start` to connect to the server. Head to Insomnia Core to test all API routes and create, read, update, and delete data from the database. 
+
+Connect to database and server:
+![1](https://user-images.githubusercontent.com/70179648/103318275-2ad9ef80-49eb-11eb-91a0-e041e221b808.gif)
 
 
+All routes for Categories:
+![](https://github.com/tmstafford/e-commerce-back/blob/main/images/2-Categories.gif)
