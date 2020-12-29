@@ -5,7 +5,6 @@
 This is the back-end for an e-commerce site built to connect a working Express.js API to a MySQL database. The application uses Sequelize to interact with the MySQL database. Once the database is connected and the server is started, users can test all routes through Insomnia to create, read, update, and delete data in the database. The GET routes return all categories, all products, and all tags stored in the database, and can also be used to GET a single category, a single tag, and a single product by ID. The POST routes can be tested to add a category, product, or tag to the database and the PUT routes can be tested to update any category, product, and tag by their respective ID. The DELETE route can be tested to delete any category, product, or tag from the database by ID. 
 
 Watch the Full [Walkthrough Video Here](https://drive.google.com/file/d/1WI6MU1wHroMj2jjBfC6HSyGig17joq-G/view).
-![](https://drive.google.com/file/d/1WI6MU1wHroMj2jjBfC6HSyGig17joq-G/view)
 
 
 ## Installation
